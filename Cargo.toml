@@ -1,10 +1,10 @@
 [package]
-name = "SigmaOS-apache-exporter"
+name = "sigmaos_apache_exporter"
 version = "0.1.0"
 edition = "2021"
-license = "Apache-2.0"
-description = "SigmaOS component - part of multi-repository architecture"
+license = "MIT"
+description = "SigmaOS apache-exporter component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "apache-exporter"
+name = "sigmaos_apache_exporter"
 path = "src/lib.rs"
