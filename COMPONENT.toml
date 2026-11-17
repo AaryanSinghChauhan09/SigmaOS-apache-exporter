@@ -3,7 +3,7 @@ name = "SigmaOS-apache-exporter"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "apache-exporter component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
